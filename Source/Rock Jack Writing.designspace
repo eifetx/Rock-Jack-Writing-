@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<designspace format="4.0">
+ <axes/>
+ <sources>
+  <source familyname="Rock Jack Writing" filename="masters/RockJackWriting-Regular.ufo" name="Regular" stylename="Regular">
+   <lib copy="1"/>
+   <groups copy="1"/>
+   <info copy="1"/>
+   <features copy="1"/>
+   <location/>
+  </source>
+ </sources>
+</designspace>
